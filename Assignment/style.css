@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: greenyellow;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#item-list {
+    margin-top: 20px;
+}
